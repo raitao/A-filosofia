@@ -1,0 +1,29 @@
+body{width: auto;
+display: flex;
+flex-direction: column;
+flex-wrap: wrap;
+align-items: left;
+background-color: rgba(167, 84, 16, 0.452);
+}
+h1{text-align: center;
+color: #333;
+font-family: cambria;
+}
+label{text-align: center;
+font-size: 26px;
+font-family: cambria;
+color: #333;
+}
+input{text-align: center;
+font-size: 26px;
+font-family: cambria;
+border-radius: 20px;
+color: rgba(167, 84, 16, 0.452);
+}
+select{font-size: 16px;
+font-family: Georgia;
+color:rgba(167, 84, 16, 0.452);
+text-align: center;
+border-radius: 20px;
+color: #333;
+}
